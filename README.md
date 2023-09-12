@@ -2,7 +2,7 @@
 <h1 align="center">< Hello I'm JYRY 👨🏽‍💻 ></h1>
 <h4 align="center">Full-Stack Web Developer</h4>
 <P align="center"><img src="https://komarev.com/ghpvc/?username=JYRRY" alt=JYRY</p>
-<ul><li align="left">🪄 I’m still learning { Front-End }</li> 
+<ul><li align="left">🪄 I’m still learning { JS }</li> 
 <li align="left">⭐ Working on { CSS } project</li>
 <li align="left">🔭 Interested in { MERN } &amp; { Data Science }</li>
 <li align="left">💬 Ask me anything maybe I can help you!</li>
