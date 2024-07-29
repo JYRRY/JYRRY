@@ -1,7 +1,7 @@
 <img src="https://camo.githubusercontent.com/82291b0fe831bfc6781e07fc5090cbd0a8b912bb8b8d4fec0696c881834f81ac/68747470733a2f2f70726f626f742e6d656469612f394575424971676170492e676966" width="1300" height="3"><div align="center">
 <h1 align="center">< Hello I'm JYRY 👨🏽‍💻 ></h1>
 <h4 align="center">Full-Stack Web Developer</h4>
-<P align="center"><img src="https://komarev.com/ghpvc/?username=JYRRY"&color=blueviolet alt=JYRY</p>
+<P align="center"><img src="https://komarev.com/ghpvc/?username=JYRRY"&color="blueviolet" alt=JYRY</p>
 <ul><li align="left">🪄 I’m still learning { JS }</li> 
 <li align="left">⭐ Working on { CSS } project</li>
 <li align="left">🔭 Interested in { MERN } &amp; { Data Science }</li>
