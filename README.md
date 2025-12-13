@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm JYRY</h1>
 <h3 align="center">A passionate Full-Stack web developer</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jyrry&label=Profile%20views&color=0e75b6&style=flat" alt="jyrry" /> </p>
+<p align="left">
+<img src="https://komarev.com/ghpvc/?username=jyrry&label=Profile%20views&color=0e75b6&style=flat" alt="jyrry"/>
+</p>
 
 - 🔭 I’m currently working on **JYRY GROUP**
 
@@ -11,11 +13,11 @@
 
 - 📫 How to reach me **jyry@jyrygroup.com**
 
-- ⚡ Fun fact **We’re all just six connections away from anyone — even Steve Jobs.**
+- ⚡ Fun fact **we’re all just six connections away from anyone even Steve Jobs.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://instagram.com/jyry" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jyry" height="30" width="40" /></a>
+<a href="https://instagram.com/jyry" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jyry" height="30" width="40"/></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
