@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **jyry@jyrygroup.com**
 
-- ⚡ Fun fact **we’re all just six connections away from anyone even Steve Jobs.**
+- ⚡ Fun fact we’re all just six connections away from anyone even **Steve Jobs**
 <br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
