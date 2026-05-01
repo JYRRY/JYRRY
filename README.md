@@ -30,10 +30,8 @@
 <h3 align="left">Languages and Tools:</h3>
 
 <br>
+<img src="https://streak-stats.demolab.com/?user=JYRRY&theme=dark)](https://git.io/streak-stats)" alt="jyrry"/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jyrry&show_icons=true&locale=en&layout=compact" alt="jyrry"/>
 
 <img src="https://github-readme-stats.vercel.app/api?username=jyrry&show_icons=true&locale=en" alt="jyrry"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=jyrry&" alt="jyrry"/>
-
