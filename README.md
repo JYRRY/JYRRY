@@ -4,7 +4,8 @@
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=jyrry&label=Profile%20views&color=0e75b6&style=flat" alt="jyrry"/>
 </p>
-- 🔭 I’m currently building JYRY GROUP, aiming to become a leading educational and consulting platform in Germany.
+<br>
+★ 🔭 I’m currently building JYRY GROUP, aiming to become a leading educational and consulting platform in Germany.
 
 - 🌱 I’m currently learning **IOS Apps, AI, Framer**
 
