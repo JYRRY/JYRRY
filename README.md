@@ -7,6 +7,8 @@
 <br>
 ★ 🔭 I’m currently building JYRY GROUP, aiming to become a leading educational and consulting platform in Germany.
 
+- 🗣️ I'm looking for a co-founder or investor if you're interested contact me on Instagram @JYRY
+
 - 🌱 I’m currently learning **IOS Apps, AI, Framer**
 
 - 💬 Ask me about **JavaScript, TypeScript, Python**
