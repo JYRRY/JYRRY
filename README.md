@@ -25,8 +25,9 @@
 <h3 align="left">Languages and Tools:</h3>
 <br>
 
-<img src="https://streak-stats.demolab.com/?user=JYRRY&theme=black-ice" />
-
-[![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=JYRRY&theme=react)](https://github.com/JYRRY/github-readme-stats)
-
-![GitHub Stats](https://ghstats.dev/api/card?username=JYRRY)
+<p align="left">
+  <img src="https://streak-stats.demolab.com/?user=JYRRY&theme=black-ice" height="350"/>
+  <br>
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=JYRRY&theme=react" height="250"/>
+  <img src="https://ghstats.dev/api/card?username=JYRRY" height="250"/>
+</p>
